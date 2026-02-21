@@ -1,6 +1,6 @@
 # AI-Powered Learning Management System (AI-LMS) 🚀
 
-A full-stack **AI-driven Learning Management System** (LMS) SaaS platform built with **Next.js, React, Node.js, and Tailwind CSS**.  
+A full-stack **AI-driven Learning Management System** (LMS) SaaS platform built with **Next.js, React, Node.js, Express.js, and Tailwind CSS**.  
 The platform leverages AI to automate personalized course outlines, quizzes, flashcards, and notes, providing an interactive and engaging learning experience.
 
 ---
